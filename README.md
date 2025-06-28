@@ -1,12 +1,62 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Portafolio Personal - Alessia
 
-Currently, two official plugins are available:
+Este es un proyecto de portafolio personal desarrollado con **React**, **Bootstrap** y **Vite**. Contiene secciones como Inicio, Sobre mí, Portafolio, Habilidades, Testimonios y Contacto.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📦 Requisitos previos
 
-## Expanding the ESLint configuration
+- Node.js (v16 o superior)
+- npm (o yarn)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Instalación
+
+1. **Clona el repositorio:**
+
+```bash
+git clone https://github.com/tu-usuario/tu-repo.git
+```
+
+2. **Entra al directorio del proyecto:**
+
+```bash
+cd tu-repo
+```
+
+3. **Instala las dependencias:**
+
+```bash
+npm install
+```
+
+## ▶️ Ejecutar en desarrollo
+
+```bash
+npm run dev
+```
+
+Este comando abrirá tu aplicación en el navegador en `http://localhost:5173` (o el puerto que indique Vite).
+
+## 🛠️ Estructura del proyecto
+
+```bash
+src/
+├── components/        # Componentes reutilizables como Navbar, About, Portafolio, etc.
+├── App.jsx            # Componente raíz
+├── main.jsx           # Punto de entrada principal
+└── index.css          # Estilos globales
+```
+
+## 🧾 Tecnologías usadas
+
+- React
+- Bootstrap 5
+- Vite
+
+## 📬 Contacto
+
+- 📧 Email: alessiaperez@gmail.com
+- 🌍 Ubicación: Urb. La Campiña del Sur
+
+---
+
+> © 2025 Alessia Pérez. Todos los derechos reservados.
